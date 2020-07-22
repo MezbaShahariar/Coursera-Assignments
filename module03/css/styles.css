@@ -31,7 +31,7 @@ body{
 	border:1px solid #61122f;
 }
 .navbar-header button.navbar-toggle{
-	clear: both;
+	float: right;
 	margin:-30px;
 }
 #nav-list{
@@ -55,6 +55,9 @@ background-color: #E7E7E7;
 	padding: 6px;
 	margin: 7px;
 }
+	.row div{
+		border: 1px solid blue;
+		}
 }
 @media(min-width: 992px) and (max-width: 1199px){
 #main-menu{
@@ -67,6 +70,9 @@ background-color: #E7E7E7;
 	padding: 6px;
 	margin: 7px;
 }
+	.row div{
+		border: 1px solid blue;
+		}
 }
 @media(min-width: 768px) and (max-width: 991px){
 #main-menu{
@@ -79,6 +85,9 @@ background-color: #E7E7E7;
 	padding: 6px;
 	margin: 7px;
 }
+	.row div{
+		border: 1px solid blue;
+		}
 }
 @media(max-width: 767px){
 	.navbar-brand{
@@ -102,4 +111,7 @@ background-color: #E7E7E7;
 	padding: 6px;
 	margin: 7px;
 }
+	.row div{
+		border: 1px solid blue;
+		}
 }
