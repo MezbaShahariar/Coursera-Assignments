@@ -29,6 +29,8 @@ body{
 }
 .navbar-header button.navbar-toggle , .navbar-header .icon-bar{
 	border:1px solid #61122f;
+	padding: 10px;
+	margin:5px;
 }
 .navbar-header button.navbar-toggle{
 	position:absolute;
@@ -41,8 +43,6 @@ body{
 	border: 1px solid lightgray;
 	color: #951C49;
 	text-align: center;
-	display: block;
-}
 #nav-list a:hover{
 background-color: #E7E7E7;
 }
