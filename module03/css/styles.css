@@ -29,20 +29,19 @@ body{
 }
 .navbar-header button.navbar-toggle , .navbar-header .icon-bar{
 	border:1px solid #61122f;
-	padding: 3px;
-	margin:5px;
 }
 .navbar-header button.navbar-toggle{
-	position:absolute;
-	right:20px;
+	clear: both;
+	margin:-30px;
 }
 #nav-list{
 	margin-top: 10px;
+	text-align: center;
 }
 #nav-list a{
-	border: 1px solid lightgray;
 	color: #951C49;
 	text-align: center;
+}
 #nav-list a:hover{
 background-color: #E7E7E7;
 }
@@ -58,27 +57,27 @@ background-color: #E7E7E7;
 	padding: 6px;
 	margin: 7px;
 }
-	.row div{
-		border: 1px solid blue;
-		height: 1000px;
-		}
+.row div{
+	border: 1px solid lightgray;
+	height: 1000px;
+}
 }
 @media(min-width: 992px) and (max-width: 1199px){
 #main-menu{
 	color: #FF0000;
 	font-family: arial;
 	font-weight: bold;
-	padding-top: 10px;
+	padding-top: 100px;
 }
 #main-content p{
 	font-family: arial;
 	padding: 6px;
 	margin: 7px;
 }
-	.row div{
-		border: 1px solid blue;
-		height: 1000px;
-		}
+.row div{
+	border: 1px solid lightgray;
+	height: 1000px;
+}
 }
 @media(min-width: 768px) and (max-width: 991px){
 #main-menu{
@@ -92,10 +91,10 @@ background-color: #E7E7E7;
 	padding: 6px;
 	margin: 7px;
 }
-	.row div{
-		border: 1px solid blue;
-		height: 1000px;
-		}
+.row div{
+	border: 1px solid lightgray;
+	height: 1000px;
+}
 }
 @media(max-width: 767px){
 	.navbar-brand{
@@ -120,8 +119,8 @@ background-color: #E7E7E7;
 	padding: 6px;
 	margin: 7px;
 }
-	.row div{
-		border: 1px solid blue;
-		height: 1000px;
-		}
+.row div{
+	border: 1px solid lightgray;
+	height: 1000px;
+}
 }
