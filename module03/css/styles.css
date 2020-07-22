@@ -41,6 +41,7 @@ body{
 	border: 1px solid lightgray;
 	color: #951C49;
 	text-align: center;
+	display: block;
 }
 #nav-list a:hover{
 background-color: #E7E7E7;
