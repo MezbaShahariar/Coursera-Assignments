@@ -31,10 +31,8 @@ body{
 	border:1px solid #61122f;
 }
 .navbar-header button.navbar-toggle{
-	clear: both;
-	margin:-20px;
-	position:relative;
-	left:20px;
+	position:absolute;
+	right:20px;
 }
 #nav-list{
 	margin-top: 10px;
