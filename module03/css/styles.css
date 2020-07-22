@@ -29,7 +29,7 @@ body{
 }
 .navbar-header button.navbar-toggle , .navbar-header .icon-bar{
 	border:1px solid #61122f;
-	padding: 10px;
+	padding: 3px;
 	margin:5px;
 }
 .navbar-header button.navbar-toggle{
@@ -51,6 +51,7 @@ background-color: #E7E7E7;
 	color: #FF0000;
 	font-family: arial;
 	font-weight: bold;
+	padding-top: 10px;
 }
 #main-content p{
 	font-family: arial;
@@ -58,7 +59,7 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid gray;
+		border: 1px solid blue;
 		height: 1000px;
 		}
 }
@@ -67,6 +68,7 @@ background-color: #E7E7E7;
 	color: #FF0000;
 	font-family: arial;
 	font-weight: bold;
+	padding-top: 10px;
 }
 #main-content p{
 	font-family: arial;
@@ -74,7 +76,7 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid gray;
+		border: 1px solid blue;
 		height: 1000px;
 		}
 }
@@ -83,6 +85,7 @@ background-color: #E7E7E7;
 	color: #FF0000;
 	font-family: arial;
 	font-weight: bold;
+	padding-top: 10px;
 }
 #main-content p{
 	font-family: arial;
@@ -90,7 +93,7 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid gray;
+		border: 1px solid blue;
 		height: 1000px;
 		}
 }
@@ -110,6 +113,7 @@ background-color: #E7E7E7;
 	color: #FF0000;
 	font-family: arial;
 	font-weight: bold;
+	padding-top: 10px;
 }
 #main-content p{
 	font-family: arial;
@@ -117,7 +121,7 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid gray;
+		border: 1px solid blue;
 		height: 1000px;
 		}
 }
