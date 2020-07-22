@@ -32,12 +32,15 @@ body{
 }
 .navbar-header button.navbar-toggle{
 	clear: both;
-	margin:-30px;
+	margin:-20px;
+	position:relative;
+	left:20px;
 }
 #nav-list{
 	margin-top: 10px;
 }
 #nav-list a{
+	border: 1px solid lightgray;
 	color: #951C49;
 	text-align: center;
 }
