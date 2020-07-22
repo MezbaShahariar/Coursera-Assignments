@@ -30,10 +30,6 @@ body{
 .navbar-header button.navbar-toggle , .navbar-header .icon-bar{
 	border:1px solid #61122f;
 }
-.navbar-header button.navbar-toggle{
-	float: right;
-	margin:-30px;
-}
 #nav-list{
 	margin-top: 10px;
 }
@@ -56,7 +52,8 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid blue;
+		border: 1px solid gray;
+		height: 1000px;
 		}
 }
 @media(min-width: 992px) and (max-width: 1199px){
@@ -71,7 +68,8 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid blue;
+		border: 1px solid gray;
+		height: 1000px;
 		}
 }
 @media(min-width: 768px) and (max-width: 991px){
@@ -86,7 +84,8 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid blue;
+		border: 1px solid gray;
+		height: 1000px;
 		}
 }
 @media(max-width: 767px){
@@ -112,6 +111,7 @@ background-color: #E7E7E7;
 	margin: 7px;
 }
 	.row div{
-		border: 1px solid blue;
+		border: 1px solid gray;
+		height: 1000px;
 		}
 }
