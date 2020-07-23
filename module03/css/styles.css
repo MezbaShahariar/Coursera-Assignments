@@ -31,13 +31,9 @@ body{
 	border:1px solid #61122f;
 }
 .navbar-header button.navbar-toggle{
-	padding: 3px;
 	margin:-30px;
 	clear: both;
-	position: absolute;
-	right:30px;
-	bottom: 20px;
-}
+	}
 #nav-list{
 	margin-top: 10px;
 	text-align: center;
