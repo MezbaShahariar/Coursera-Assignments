@@ -33,7 +33,10 @@ body{
 .navbar-header button.navbar-toggle{
 	padding: 3px;
 	margin:-30px;
-	float:right;
+	clear: both;
+	position: absolute;
+	right:30px;
+	bottom: 20px;
 }
 #nav-list{
 	margin-top: 10px;
